@@ -1,0 +1,12 @@
+[project]
+name = "darkroom-blend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fake-bpy-module>=20251003",
+]
+
+[dependency-groups]
+dev = []
