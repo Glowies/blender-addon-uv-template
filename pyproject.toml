@@ -9,4 +9,7 @@ dependencies = [
 ]
 
 [dependency-groups]
-dev = []
+dev = [
+    "python-lsp-ruff>=2.3.0",
+    "python-lsp-server>=1.13.1",
+]
