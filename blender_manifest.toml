@@ -2,11 +2,11 @@ schema_version = "1.0.0"
 
 # Example of manifest file for a Blender extension
 # Change the values according to your extension
-id = "darkroom_blend"
+id = "PROJECT_ID"
 version = "1.0.0"
-name = "Darkroom Blend"
-tagline = "Develop your EXR images in Blender"
-maintainer = "Oktay Comu"
+name = "PROJECT_NAME"
+tagline = "PROJECT_DESCRIPTION"
+maintainer = "PROJECT_AUTHOR"
 # Supported types: "add-on", "theme"
 type = "add-on"
 

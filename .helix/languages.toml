@@ -1,2 +1,0 @@
-[language-server.pylsp.config.pylsp]
-plugins.ruff.enabled = true

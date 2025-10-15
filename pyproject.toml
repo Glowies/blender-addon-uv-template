@@ -1,5 +1,5 @@
 [project]
-name = "darkroom-blend"
+name = "PROJECT_NAME"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -10,6 +10,6 @@ dependencies = [
 
 [dependency-groups]
 dev = [
-    "python-lsp-ruff>=2.3.0",
     "python-lsp-server>=1.13.1",
+    "ruff>=0.14.0",
 ]
